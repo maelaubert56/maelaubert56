@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maël !</h1>
-<h3 align="center">Student at EFREI Paris, Front-end Engineering Intern at Ekino, and Partnerships Manager at BDS Efrei.</h3>
+<h3 align="center">Student at EFREI Paris, Front-end Engineering Intern at Ekino, and President of *Live Efrei* music club.</h3>
 
 ---
 
@@ -11,7 +11,7 @@
 
 - 🎸 I play guitar in a band called **SoulBrothers**. Check out our music on [YouTube](https://www.youtube.com/@SoulBrothers777).
 
-- ⚡ Fun fact: **I combine my passion for sports and coding through my involvement with BDS Efrei!**
+- ⚡ Fun fact: **I combine my passion for music and coding through my involvement at Live Efrei!**
 
 ---
 
