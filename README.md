@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maël !</h1>
-<h3 align="center">Student at EFREI Paris, Front-end Engineering Intern at _Ekino_, and President of _Live Efrei_ music club.</h3>
+<h3 align="center">Student at EFREI Paris, Front-end Engineering Intern at Ekino, and President of Live Efrei music club.</h3>
 
 ---
 
