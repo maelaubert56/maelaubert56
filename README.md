@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Maël !</h1>
-<h3 align="center">Student at EFREI Paris, Front-end Engineering Intern at Ekino, and President of Live Efrei music club.</h3>
+<h3 align="center">Front-end Engineering at Ekino</h3>
 
 ---
 
-- 🔭 I’m currently working at **Ekino** as a **Front-end Engineering Intern**.
+- 🔭 I’m currently working at **Ekino** as a **Front-end Engineering**.
 
 - 🌱 I’m continuously learning and improving my skills in **React, Next.js, TypeScript, and Node.js**.
 
-- 👨‍💻 All of my projects are available on [my GitHub](https://github.com/maelaubert56) and [my portfolio](http://www.maelaubert.fr).
+- 👨‍💻 All of my projects are available on [my GitHub](https://github.com/maelaubert56) and [my portfolio](https://www.maelaubert.fr).
 
 - 🎸 I play guitar in a band called **SoulBrothers**. Check out our music on [YouTube](https://www.youtube.com/@SoulBrothers777).
-
-- ⚡ Fun fact: **I combine my passion for music and coding through my involvement at Live Efrei!**
 
 ---
 
