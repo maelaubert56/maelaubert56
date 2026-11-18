@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maël !</h1>
-<h3 align="center">Front-end Engineering at Ekino</h3>
+<h3 align="center">Backend Engineer at Ekino</h3>
 
 ---
 
-- 🔭 I’m currently working at **Ekino** as a **Front-end Engineering**.
+- 🔭 I’m currently working at **Ekino** as a **Back-end Engineer**.
 
 - 🌱 I’m continuously learning and improving my skills in **React, Next.js, TypeScript, and Node.js**.
 
